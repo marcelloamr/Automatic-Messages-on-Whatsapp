@@ -1,0 +1,7 @@
+Lembre-se de instalar pela linha de código do seu PC o selenium e o numpy
+
+digite: pip3 install selenium 
+        pip3 install numpy
+        
+Coloquei também a versão mais recente do ChomeWebDriver, que pode ser encontrada no site abaixo:
+https://chromedriver.chromium.org/downloads
